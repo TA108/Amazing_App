@@ -25,7 +25,7 @@ This is a **responsive landing page** built using **Bootstrap 5**. It features a
 
 ## 🖼️ Preview
 
-![screenshot](preview.png)  
+![screenshot](image.png)  
 <sub>*Include a screenshot of your project in action here*</sub>
 
 ---
@@ -53,6 +53,5 @@ project/
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-
 
 2. Open index.html in your browser
