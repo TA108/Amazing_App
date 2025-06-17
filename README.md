@@ -26,7 +26,7 @@ This is a **responsive landing page** built using **Bootstrap 5**. It features a
 ## 🖼️ Preview
 
 ![screenshot](image.png)  
-<sub>*Include a screenshot of your project in action here*</sub>
+<sub>*Screenshot of My project in action here*</sub>
 
 ---
 
